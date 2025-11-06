@@ -357,7 +357,6 @@ function handleCommand(command, userText) {
     } else { // 'NÃO ENTENDI'
         console.log('AÇÃO: NÃO ENTENDI');
         statusEl.innerText = 'Comando não reconhecido. Tente novamente.';
-        updateFirebase(command, userText);
     }
 }
     </script>
