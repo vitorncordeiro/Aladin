@@ -1,5 +1,5 @@
 # Aladin
-![Aladin](https://media.discordapp.net/attachments/662375257591513088/1436132856710828202/image.png?ex=690e7e73&is=690d2cf3&hm=7853fd0c2e435e07a261689978a213ee1be75de4ed43906cab96860e46ff3a74&=&format=webp&quality=lossless)
+![Aladin](https://media.discordapp.net/attachments/662375257591513088/1436133799879774259/imagem_2025-11-06_202136005-removebg-preview.png?ex=690e7f53&is=690d2dd3&hm=d73dd82f23c506954707610a3d3c220d6c6cff4e363ab179a7005aa09bac49ba&=&format=webp&quality=lossless)   
 This project implements a smart home automation system using an **ESP32**, a **relay module**, and **Firebase Realtime Database**.
 It provides a secure web interface hosted directly on the ESP32, allowing users to control a lamp through **voice commands** (processed by Google's Gemini AI) or manual interaction.
 
