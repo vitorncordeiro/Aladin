@@ -1,5 +1,5 @@
-# ESP32 Voice Controlled Lamp with Firebase
-
+# Aladin
+![Aladin](https://media.discordapp.net/attachments/662375257591513088/1436132856710828202/image.png?ex=690e7e73&is=690d2cf3&hm=7853fd0c2e435e07a261689978a213ee1be75de4ed43906cab96860e46ff3a74&=&format=webp&quality=lossless)
 This project implements a smart home automation system using an **ESP32**, a **relay module**, and **Firebase Realtime Database**.
 It provides a secure web interface hosted directly on the ESP32, allowing users to control a lamp through **voice commands** (processed by Google's Gemini AI) or manual interaction.
 
