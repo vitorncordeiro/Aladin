@@ -30,8 +30,8 @@
 // ======================
 // Credenciais de WiFi
 // ======================
-const char* ssid = "iPhone de Eduardo";      // (Seu SSID)
-const char* password = "80230070"; // (Sua Senha)
+const char* ssid = "";      // (Seu SSID)
+const char* password = ""; // (Sua Senha)
 
 // ======================
 // Certificado e chave
@@ -134,7 +134,7 @@ static const char index_html[] PROGMEM = R"EOF(
         // CONFIGURAÇÃO DA API DA LLM
         // ======================================
         // ❗ (Sua Chave de API)
-        const GEMINI_API_KEY = "AIzaSyByq5zji1RG240zSODkYS8JTbJmP8xhLlM"; 
+        const GEMINI_API_KEY = ""; 
         
         // ==========================================================
         // PROMPT DO SISTEMA
