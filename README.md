@@ -3,7 +3,7 @@
 ![Aladin](https://media.discordapp.net/attachments/662375257591513088/1436133799879774259/imagem_2025-11-06_202136005-removebg-preview.png?ex=690e7f53\&is=690d2dd3\&hm=d73dd82f23c506954707610a3d3c220d6c6cff4e363ab179a7005aa09bac49ba&=\&format=webp\&quality=lossless)
 
 **Aladin** is a smart home automation system built with an **ESP32**, a **relay module**, and **Firebase Realtime Database**.
-It hosts a secure local web interface that allows users to control a lamp using **voice commands** (powered by Google’s Gemini AI) or manual toggles.
+It hosts a secure local web interface that allows users to control a lamp using **voice commands** (powered by Google’s Gemini AI).
 
 All Firebase operations—such as logging lamp states, timestamps, energy consumption, and estimated cost—are now handled **via JavaScript** on the web interface, rather than directly by the ESP32.
 
